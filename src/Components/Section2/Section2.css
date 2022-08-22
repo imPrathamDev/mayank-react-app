@@ -1,0 +1,31 @@
+
+.br{
+    height: 10vh;
+    width: 2vw;
+    background: #ffffff60;
+    border-radius: 20px;
+    margin-left: 1vw;
+  }
+  
+  .section2{
+  display: flex;
+  height: fit-content;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  padding: 1vw;
+  }
+  
+  
+  
+  .temp{
+    color: white;
+    font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 10vw;
+  /* or 219px */
+  margin-left: 6vh;
+  text-align: center;
+  }
+  

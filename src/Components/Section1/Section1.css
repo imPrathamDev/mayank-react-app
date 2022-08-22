@@ -1,0 +1,66 @@
+
+.section1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: max-content;
+    width: 100%;
+    padding: 1vw;
+    
+  }
+  
+  .otherDetail{
+    width: 30vw;
+    background: linear-gradient(202.02deg, rgba(217, 217, 217, 0.1) -166.5%, rgba(217, 217, 217, 0.029) 101.53%);
+    border: 1px solid rgba(255, 255, 255, 0.44);
+    backdrop-filter: blur(31px);
+    /* Note: backdrop-filter has minimal browser support */
+    
+    border-radius: 19px;
+    display: flex;
+    padding: 1vw;
+    justify-content: space-around;
+  }
+  
+  .br1{
+    height: 10vh;
+    width: 0.1vw;
+    background: #ffffff60;
+    border-radius: 20px;
+    margin-left: 1vw;
+  }
+  
+  
+  
+  
+  
+  
+  .mainImg{
+  width: 10%;
+  margin-right: 3vw;
+  }
+  
+  .text{
+    color: white;
+  }
+  
+  .location{
+    font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 4vw;
+  text-transform: capitalize;
+  }
+  
+  .timedate{
+    font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1vw;
+  
+  }
+
+  .details{
+font-weight: bolder;
+    margin-top: 1vh;
+  }

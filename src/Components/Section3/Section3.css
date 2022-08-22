@@ -1,0 +1,27 @@
+
+.section3{
+  display: flex;
+  height: max-content;
+  margin-top:2vh ;
+  padding:1vh ;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.card{
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  background: #FFFFFF;
+  border-radius: 16px;
+}
+
+.S3br{
+  height: 10vh;
+  width: 2vw;
+  background: #22222260;
+  border-radius: 20px;
+}
